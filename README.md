@@ -27,7 +27,7 @@
 
 ## Download & start
 
-1. Download **OI DOF全自动编辑器-4.1.1.zip** from the release assets.
+1. Download **OI-DOF-Editor-4.1.1.zip** from the release assets.
 2. Extract it into a writable folder and run **OI DOF全自动编辑器-4.1.1.exe**. Windows x64 and the Microsoft Edge WebView2 Runtime are required.
 3. Supply your own PVF. Open **操作指引** for the first steps. AI is optional; manual editing does not require a model connection.
 4. For AI assistance, configure a model API or an installed, signed-in local AI client. For updates, use the app's update entry; future official updates follow the official signed channel, not GitHub release polling.
@@ -224,13 +224,17 @@ A interface é atualmente principalmente em chinês. O ZIP oficial completo cont
 
 </details>
 
+GitHub download filename: **OI-DOF-Editor-4.1.1.zip**. The bytes are identical to the author's original **OI DOF全自动编辑器-4.1.1.zip**; only the hosted filename is standardized.
+
+GitHub附件使用英文文件名；包内容与作者指定的正式ZIP完全一致，未重新打包。
+
 ## Package integrity
 
 | Item | Value |
 |---|---|
 | Version | 4.1.1 |
 | Platform | Windows x64 |
-| Package | `OI DOF全自动编辑器-4.1.1.zip` |
+| Package | `OI-DOF-Editor-4.1.1.zip` |
 | Package size | 16,508,136 bytes |
 | ZIP SHA-256 | `5fd43d32896015a7ec7989c0db7bfa0f3289924fd3555d82c4da215a727ef3e0` |
 | EXE SHA-256 | `817009a32da195fa292cb2f74d7a7ff65d0f7448375c41e905c0ff6944b8816f` |
